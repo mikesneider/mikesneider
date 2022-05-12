@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/mikesneiderp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikesneiderp)]
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikesneiderp)
 
 
 
@@ -54,14 +54,19 @@
   </p>
 
 ----
+## 📺 Latest YouTube Videos
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mikesneider"><img alt="mikesneider's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mikesneider&custom_title=mikesneider's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/c-8CB24WCvw"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
+<td><a href="https://youtu.be/c-8CB24WCvw">Estudiando Web 3.0 💻 | Rust- Loops, match, variables</a><br/></td></tr>
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCTmWKK6iB6yRP1yjk7fDf2Q?sub_confirmation=1)
 
 
-<br/>
 
 ## :trophy: Git profile Trophies
 
