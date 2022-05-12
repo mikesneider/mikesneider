@@ -34,7 +34,6 @@
 <a href="https://www.instagram.com/mikesneiderp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-![Twitter Badge](https://twitter.com/mikesneiderp)
 
 
 
