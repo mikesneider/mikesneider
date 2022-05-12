@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/mikesneiderp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikesneiderp)
+![Twitter Badge](https://twitter.com/mikesneiderp)
 
 
 
@@ -58,7 +58,7 @@
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/c-8CB24WCvw"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/c-8CB24WCvw"><img width="140px" src="https://i.ytimg.com/vi/c-8CB24WCvw/mqdefault.jpg"></a></td>
 <td><a href="https://youtu.be/c-8CB24WCvw">Estudiando Web 3.0 💻 | Rust- Loops, match, variables</a><br/></td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
