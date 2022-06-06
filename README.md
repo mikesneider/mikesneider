@@ -67,10 +67,10 @@
 
 ## :trophy: Git and StackOverflow profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikesneider&layout=compact&theme=algolia" alt="mikesneider" /></a> </p>
-<center>
-[![Mike Puentes StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4839262)](https://stackoverflow.com/users/4839262/mikesneider)
-	</center>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikesneider&layout=compact&theme=algolia" alt="mikesneider" /></a> 
+
+[![Mike Puentes StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4839262&theme=dark)](https://stackoverflow.com/users/4839262/mikesneider)
+	</p>
 -----
 
 :colombia:
