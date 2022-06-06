@@ -18,13 +18,9 @@
 🧮 Software Developer with 8+ years of experience in software design, data analysis. I have worked designing, developing and deploying enterprise projects using C#, ASP, .NET Framework, .NET Core and API Services. I am a reliable, dedicated and a team worker professional. I also have a strong experience refactoring old codebases to modern web-based systems. I like to learn new technologies, try new languages and face new challenges with a positive attitude and critical thinking.
 :nerd_face: Always `learning new things`
 
-<br>
 
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 <p align="center">
 	
 <a href="https://github.com/mikesneider"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
